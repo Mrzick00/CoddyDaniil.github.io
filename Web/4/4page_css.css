@@ -1,0 +1,36 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	font-family: 'Calibri';
+	background-color: #efefef;
+}
+
+div{
+	text-align: center;
+	width: 60%;
+	margin: auto;
+	background-color: #fff;
+	box-shadow: 0 0 10px 1px rgba(0,0,0,0.3);
+}
+
+img{
+	max-width: 80%;
+	height: auto;
+}
+
+p{
+	margin: 25px;
+	font-size: 20px;
+	text-align: left;
+	text-indent: 20px; //*  создает отступ первого слова *//
+}
+
+a{
+	text-decoration: none;
+	display: block;
+	color: gray;
+}
